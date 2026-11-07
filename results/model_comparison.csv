@@ -1,0 +1,5 @@
+Model,Accuracy,Precision (macro),Recall (macro),F1 (macro)
+Logistic Regression (default),0.83,0.8368,0.83,0.8299
+SVM (default),0.82,0.8151,0.82,0.8155
+Logistic Regression (tuned),0.83,0.8489,0.83,0.8313
+SVM (tuned),0.87,0.8771,0.87,0.8688
