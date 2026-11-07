@@ -1,4 +1,3 @@
-"""Step 2 - Four exploratory plots saved to plots/."""
 import matplotlib
 matplotlib.use("Agg")
 import matplotlib.pyplot as plt
