@@ -1,4 +1,3 @@
-"""Step 3 - Logistic Regression vs SVM: tune C, evaluate with 4 multi-class metrics, visualise."""
 import matplotlib
 matplotlib.use("Agg")
 import matplotlib.pyplot as plt
