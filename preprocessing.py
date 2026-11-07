@@ -1,4 +1,3 @@
-"""Step 1 - Preprocessing: load data/fertilizer.csv, clean it, save data/cleaned_dataset.csv."""
 import numpy as np
 import pandas as pd
 
